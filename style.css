@@ -141,3 +141,6 @@ body.dark-mode .project-card {
 body.dark-mode .project-card h3 {
     color: #87ceeb;
 }
+video{
+    border-radius: 50px;
+}
