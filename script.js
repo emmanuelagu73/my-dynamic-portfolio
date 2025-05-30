@@ -56,7 +56,7 @@ async function loadProjects() {
             const projectCard = document.createElement('div');
             projectCard.classList.add('project-card');
             projectCard.innerHTML = `
-                <h3><span class="math-inline">\{project\.name\}</h3\></36\>
+                <h3><span class="math-inline">\{portfolio\.projects\}</h3\></36\>
 <p>{My web design project}</p>
 <a href="${'https://youtu.be/n2B-FClr5rA'}" target="_blank">View Project</a>
 `;
