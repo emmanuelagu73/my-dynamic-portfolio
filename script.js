@@ -58,7 +58,7 @@ async function loadProjects() {
             projectCard.innerHTML = `
                 <h3><span class="math-inline">Portfolio projects</h3\></36\>
 <p>My web design project</p>
-<a href="${'file:///C:/Users/Emmanuel/Documents/my_profile/index.html'}" target="_blank">View Project</a>
+<a href="${'https://youtu.be/n2B-FClr5rA'}" target="_blank">View Project</a>
 `;
 projectsContainer.appendChild(projectCard);1
 });
