@@ -14,7 +14,7 @@ body.dark-mode {
 }
 
 header {
-    background-color: #007bff; /* Blue header */
+    background-color: lightgray; /* Blue header */
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -50,7 +50,7 @@ body.dark-mode section {
 }
 
 h1, h2, h3 {
-    color: #0056b3; /* Darker blue for headings */
+    color: rgb(110, 108, 108); /* Darker blue for headings */
 }
 
 body.dark-mode h1,
@@ -91,7 +91,7 @@ body.dark-mode h3 {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #007bff;
+    background-color: rgb(137, 134, 134);
     color: white;
     position: relative;
     bottom: 0;
